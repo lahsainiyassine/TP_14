@@ -30,3 +30,11 @@ Couche Présentation (TestApp) : Orchestre les scénarios fonctionnels sans mani
 L'interface générique contraint le type manipulé à exposer la méthode getId().
 
 Cette contrainte permet d'écrire des algorithmes de recherche, de mise à jour et de suppression uniformes dans ListDao<T> sans connaître le type concret de l'entité.
+
+
+
+
+https://github.com/user-attachments/assets/da3b8fa8-a3af-4165-b137-7d28763fca0e
+
+
+
